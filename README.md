@@ -1,3 +1,6 @@
 # hello-world
 
-hi,rookieyao,good good study,day day up!
+welcome to china!
+hi,nice to meet you !
+how are you?
+i am fine! and you!
